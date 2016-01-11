@@ -1,0 +1,28 @@
+name: studioartica
+favicon: null
+layout_spectrum: 0.8085173543076962
+typography_spectrum: 0.9846267844550312
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.17097526043653488
+  lightness: 0.49581791274249554
+  saturation: 0.8711152060423046
+  rhythmicContrast: 0.9131504523102194
+purpose: []
